@@ -94,19 +94,16 @@ body {
 }
 .control-shuffle {
   position: absolute;
-  top: 0;
   left: 60px;
   top: 5px;
 }
 .control-list {
   position: absolute;
-  top: 0;
   right: 10px;
   top: 5px;
 }
 .control-heart {
- position: absolute;
-  top: 0;
+  position: absolute;
   right: 40px;
   top: 5px;
 }
