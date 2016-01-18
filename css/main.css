@@ -63,14 +63,12 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
-  width:calc(100%-50px);
+  width: calc(100%-50px);
 }
-
 /*
   DON’T TOUCH
   They’re just there to colour the progress bar
 */
-
 .time-bar::-moz-progress-bar {
   background-color: #666;
 }
