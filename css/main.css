@@ -55,7 +55,7 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
-  width:calc(100%-50px);
+  width: calc(100%-50px);
 }
 /*
   DON’T TOUCH
