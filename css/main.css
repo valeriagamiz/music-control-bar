@@ -75,6 +75,7 @@ body {
 .time-bar::-moz-progress-bar {
   background-color: #666;
 }
+
 .time-bar::-webkit-progress-value {
   background-color: #666;
 }
